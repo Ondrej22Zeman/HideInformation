@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="HideInformation:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HideInformation_jar</output-path>
+    <root id="archive" name="HideInformation.jar">
+      <element id="module-output" name="HideInformation" />
+      <element id="library" level="project" name="Java EE 6-Java EE 6" />
+    </root>
+  </artifact>
+</component>
